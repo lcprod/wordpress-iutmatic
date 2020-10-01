@@ -24,3 +24,4 @@ clean: down
 
 reset: clean
 
+stop: down
